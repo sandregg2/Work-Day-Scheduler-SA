@@ -5,3 +5,5 @@
 - This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery
 ## Our Website
 https://sandregg2.github.io/Work-Day-Scheduler-SA/
+## Images
+<img width="500" alt="Screenshot 2023-03-27 192934.png" src="https://github.com/sandregg2/Work-Day-Scheduler-SA/blob/main/Images/Screenshot%202023-03-27%20192934.png?raw=true">
